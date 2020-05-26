@@ -15,7 +15,7 @@ classification purposes (https://doi.org/10.3390/healthcare7010011).
 
 In case of using the proposed methods in this work, please refer to the following papers:
 
-P. S. Zarrin, F. Zahari, H. Kohlstedt, and C. Wenger. “On-chip Recognition of Saliva Samples of COPD and Healthy
-Controls Using a Memristive Neuromorphic Processor,” In IEEE Transactions on Biomedical Engineering, 2020
+Soltani Zarrin, P.; Ibne Jamal, F.; Roeckendorf, N.; Wenger, C. Development of a Portable Dielectric Biosensor for Rapid Detection of Viscosity Variations and Its In Vitro Evaluations Using Saliva Samples of COPD Patients and Healthy Control. Healthcare 2019, 7, 11.
 
-P. S. Zarrin, N. Roeckendorf, and C. Wenger. In-vitro Classification of Saliva Samples of COPD Patients and Healthy Controls Using Non-perceptron Machine Learning Tools. Annals of biomedical engineering, 2020.
+
+
